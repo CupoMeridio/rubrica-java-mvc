@@ -36,7 +36,7 @@ Il progetto è stato realizzato dal **Gruppo 02**, composto da 4 studenti del co
 
 ### **Clonare il repository:**  
 ```bash  
-git clone https://github.com/CupoMeridio/Ingegneria-del-software-2024-2025.git  
+git clone https://github.com/CupoMeridio/rubrica-java-mvc.git  
 ```  
 
 ### **Configurare il database:**  
